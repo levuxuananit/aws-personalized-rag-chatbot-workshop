@@ -36,7 +36,7 @@
 This architecture allows the AI-powered chatbot solution to scale on demand while providing intelligent responses based on both LLM knowledge and personal data (often confidential corporate or personal data). Using Vue.js with AWS Amplify ensures a responsive and efficient user interface.
 
 ## Workshop
-🔻Workshop: https://levuxuananit.github.io/AWS-RAG-CHATBOT-WORKSHOP/
+🔻Workshop: [https://levuxuananit.github.io/AWS-RAG-CHATBOT-WORKSHOP/](https://levuxuananit.github.io/aws-personalized-rag-chatbot-workshop/)
 
 ---
 
